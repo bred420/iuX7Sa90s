@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1,College Basketball Stream
-#EXTVLCOPT:http-referrer=https://foxtrend.net/event/ohio-state-vs-tcu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:https://foxtrend.net/event/ohio-state-vs-tcu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://lb1.modifiles.fans/secure/ShQUmbyySVtDQtwZPTGJPZQRbomaiReX/1773926100/1773956700/CBS/tracks-v1a1/mono.ts.m3u8
